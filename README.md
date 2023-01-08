@@ -10,7 +10,7 @@ There are 2 chrome hacks to choose from, both of them being proxies.
 
 Ultraviolet is the simplest and easiest proxy.
 ![image](https://user-images.githubusercontent.com/98992380/211188587-4dbe9c46-ba7d-4bd3-b342-8e821de924cc.png)
-To install, go to https://replit.com, and search for "Ultraviolt", and fork one of the many repls. Then start the repl.
+To install, go to [Replit](https://replit.com), and search for "Ultraviolt", and fork one of the many repls. Then start the repl.
 
 After this, highlight this code and drag to bookmarks, and replace 'YOUR LINK HERE' with the repl site link.
 
