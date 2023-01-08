@@ -37,7 +37,9 @@ To do this, download the file, and run the installer, and your done!
 
 Apps That work:
 
-Gimp
+Gimp,
+
+CMMM Plus+ (https://milenakos.itch.io/cmmm-plus-milenakos-mod)
 
 Method #1, inno method #1
 
