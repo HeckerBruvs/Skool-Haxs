@@ -55,7 +55,9 @@ Notepad++,
 
 Sublime text editor,
 
-Clone Hero
+Clone Hero,
+
+Vim
 
 Method #2, inno method #2
 
