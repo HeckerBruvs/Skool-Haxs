@@ -5,7 +5,7 @@ Some nice bypassing tools to make school laptops more fun.
 
 # Table of Contents
 
-*[Web Hacks](#web hacks)
+*[Web Hacks](# Web Hacks)
 
 # Web Hacks
 There are 2 chrome hacks to choose from, both of them being proxies.
