@@ -29,7 +29,17 @@ https://github.com/binary-person/womginx
 # .EXE Hacks
 .EXE hacks allow you to run alternate programs on your device that may have been blocked. For this we use what we call "Vix Hack" which uses inno and other methods. Not all programs work, and we will make a list of every program that we know works.
 
-Method #0, Plain install.
+Method #0, RunAsInvoker
+
+This method forces admin, but is a very weak method. I/We personally have trouble getting this to work, but We might as well include it.
+
+To start, Create a new folder. Create a new batch file, and name it "Start.bat". Right click this batch file, and edit it. Then paste this code in it:
+
+set __COMPAT_LAYER=RunAsInvoker && start "Program.exe"
+
+Replace "Program.exe" with an installer indside the directory of the batch file, then run the batch file.
+
+Method #1, Plain install.
 
 This method only requires a .exe file, and will run! Not many programs run this way on School devices.
 
@@ -41,7 +51,7 @@ Gimp,
 
 CMMM Plus+ (https://milenakos.itch.io/cmmm-plus-milenakos-mod)
 
-Method #1, inno method #1
+Method #2, inno method #1
 
 This method requires innoextract, and we will leave a link to get that.
 
@@ -59,7 +69,7 @@ Clone Hero,
 
 Vim
 
-Method #2, inno method #2
+Method #3, inno method #2
 
 This method requires innoextract, which we used in method #1.
 
@@ -77,6 +87,8 @@ Opera GX,
 
 Spotify,
 
-Roblox
+Roblox,
+
+Paradox Launcher
 
 # More information will be added soon!
