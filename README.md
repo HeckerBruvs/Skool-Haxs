@@ -1,6 +1,7 @@
 # Skool-Haxs
 Some nice bypassing tools to make school laptops more fun
 
+#NOT ALL HACKS WILL WORK ON ALL DEVICES!
 
 # Web Hacks
 There are 2 chrome hacks to choose from, both of them being proxies.
@@ -26,3 +27,4 @@ This is more advanced, so view the official repo for info.
 https://github.com/binary-person/womginx
 
 # .EXE Hacks
+.EXE hacks allow you to run alternate programs on your device that may have been blocked. For this we use what we call "Vix Hack" which uses inno and other methods. Not all programs work, and we will make a list of every program that we know works.
