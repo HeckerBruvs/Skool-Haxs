@@ -1,5 +1,5 @@
 # Skool-Haxs
-Some nice bypassing tools to make school laptops more fun
+Some nice bypassing tools to make school laptops more fun.
 
 # NOT ALL HACKS WILL WORK ON ALL DEVICES!
 
@@ -38,3 +38,25 @@ To do this, download the file, and run the installer, and your done!
 Apps That work:
 
 Gimp
+
+Method #1, inno method #1
+
+This method requires innoextract, and we will leave a link to get that.
+
+https://constexpr.org/innoextract/
+
+Open this link, scroll down, and download "Windows Binaries". Extract the .ZIP to an easy location to access. Next, take your installer, and put it in the innoextract folder that you just unzipped. Then drag your installer onto the innoextract.exe file, and installation will start. Once you are done, you will have a new folder named "App", and you can run the file inside of that.
+
+Apps that work:
+
+Notepad++
+Sublime text editor
+
+Method #2, inno method #2
+
+This method requires innoextract, which we used in method #1.
+
+Follow all the steps in method #1, but instead of dragging the installer onto innoextract.exe, drag innoextract.exe onto the installer. This will start the program instead of making an "App" folder.
+
+Apps that work:
+
