@@ -1,7 +1,7 @@
 # Skool-Haxs
 Some nice bypassing tools to make school laptops more fun.
 
-**NOT ALL HACKS WILL WORK ON ALL DEVICES!**
+**NOT ALL HACKS WILL WORK ON ALL DEVICES!
 
 # Web Hacks
 There are 2 chrome hacks to choose from, both of them being proxies.
@@ -10,7 +10,7 @@ There are 2 chrome hacks to choose from, both of them being proxies.
 
 Ultraviolet is the simplest and easiest proxy.
 ![image](https://user-images.githubusercontent.com/98992380/211188587-4dbe9c46-ba7d-4bd3-b342-8e821de924cc.png)
-To install, go to [Replit](https://replit.com), and search for "Ultraviolt", and fork one of the many repls. Then start the repl.
+To install, go to *[Replit](https://replit.com)*, and search for "Ultraviolt", and fork one of the many repls. Then start the repl.
 
 After this, highlight this code and drag to bookmarks, and replace 'YOUR LINK HERE' with the repl site link.
 
@@ -24,7 +24,7 @@ Womginx is a mix of Wombat and nginx proxies.
 
 This is more advanced, so view the official repo for info. 
 ![image](https://user-images.githubusercontent.com/98992380/211189354-53e8c301-b440-4ade-b657-ffdb914031ba.png)
-[Womginx](https://github.com/binary-person/womginx)
+*[Womginx](https://github.com/binary-person/womginx)
 
 # .EXE Hacks
 .EXE hacks allow you to run alternate programs on your device that may have been blocked. For this we use what we call "Vix Hack" which uses inno and other methods. Not all programs work, and we will make a list of every program that we know works.
@@ -47,27 +47,27 @@ To do this, download the file, and run the installer, and your done!
 
 Apps That work:
 
-[Gimp](https://gimp.org),
+*[Gimp](https://gimp.org),
 
-[CMMM Plus+](https://milenakos.itch.io/cmmm-plus-milenakos-mod)
+*[CMMM Plus+](https://milenakos.itch.io/cmmm-plus-milenakos-mod)
 
 ## Method #2, inno method #1
 
 This method requires innoextract, and we will leave a link to get that.
 
-[Innoextract](https://constexpr.org/innoextract/)
+*[Innoextract](https://constexpr.org/innoextract/)
 
 Open this link, scroll down, and download "Windows Binaries". Extract the .ZIP to an easy location to access. Next, take your installer, and put it in the innoextract folder that you just unzipped. Then drag your installer onto the innoextract.exe file, and installation will start. Once you are done, you will have a new folder named "App", and you can run the file inside of that.
 
 Apps that work:
 
-[Notepad++](https://notepad-plus-plus.org/),
+*[Notepad++](https://notepad-plus-plus.org/),
 
-[Sublime Text](https://www.sublimetext.com/),
+*[Sublime Text](https://www.sublimetext.com/),
 
-[Clone Hero](https://clonehero.net/),
+*[Clone Hero](https://clonehero.net/),
 
-[Vim](https://www.vim.org/)
+*[Vim](https://www.vim.org/)
 
 ## Method #3, inno method #2
 
@@ -77,20 +77,20 @@ Follow all the steps in method #1, but instead of dragging the installer onto in
 
 Apps that work:
 
-[Discord](https://discord.com/),
+*[Discord](https://discord.com/),
 
-[Better Discord](https://betterdiscord.app/)
+*[Better Discord](https://betterdiscord.app/)
 
-[Minecraft](https://www.lunarclient.com/) (Note: You have to use lunar client instead of the Minecraft Launcher),
+*[Minecraft](https://www.lunarclient.com/) (Note: You have to use lunar client instead of the Minecraft Launcher),
 
-[Firefox](https://www.mozilla.org/en-US/firefox/new/),
+*[Firefox](https://www.mozilla.org/en-US/firefox/new/),
 
-[Opera GX](https://www.opera.com/gx),
+*[Opera GX](https://www.opera.com/gx),
 
-[Spotify](https://www.spotify.com/us/download/windows/),
+*[Spotify](https://www.spotify.com/us/download/windows/),
 
-[Roblox](https://roblox.com),
+*[Roblox](https://roblox.com),
 
-[Paradox Launcher](https://www.paradoxinteractive.com/our-games/launcher)
+*[Paradox Launcher](https://www.paradoxinteractive.com/our-games/launcher)
 
-**More information will be added soon!**
+**More information will be added soon!
