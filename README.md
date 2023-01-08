@@ -28,3 +28,13 @@ https://github.com/binary-person/womginx
 
 # .EXE Hacks
 .EXE hacks allow you to run alternate programs on your device that may have been blocked. For this we use what we call "Vix Hack" which uses inno and other methods. Not all programs work, and we will make a list of every program that we know works.
+
+Method #0, Plain install.
+
+This method only requires a .exe file, and will run! Not many programs run this way on School devices.
+
+To do this, download the file, and run the installer, and your done!
+
+Apps That work:
+
+Gimp
