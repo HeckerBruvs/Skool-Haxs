@@ -53,7 +53,9 @@ Apps that work:
 
 Notepad++,
 
-Sublime text editor
+Sublime text editor,
+
+Clone Hero
 
 Method #2, inno method #2
 
