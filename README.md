@@ -61,8 +61,6 @@ Open this link, scroll down, and download "Windows Binaries". Extract the .ZIP t
 
 Apps that work:
 
-*[Notepad++](https://notepad-plus-plus.org/)*,
-
 *[Sublime Text](https://www.sublimetext.com/)*,
 
 *[Clone Hero](https://clonehero.net/)*,
