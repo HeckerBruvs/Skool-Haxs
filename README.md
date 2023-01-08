@@ -1,7 +1,7 @@
 # Skool-Haxs
 Some nice bypassing tools to make school laptops more fun.
 
-# NOT ALL HACKS WILL WORK ON ALL DEVICES!
+**NOT ALL HACKS WILL WORK ON ALL DEVICES!**
 
 # Web Hacks
 There are 2 chrome hacks to choose from, both of them being proxies.
