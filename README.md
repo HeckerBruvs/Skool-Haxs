@@ -24,7 +24,7 @@ Womginx is a mix of Wombat and nginx proxies.
 
 This is more advanced, so view the official repo for info. 
 ![image](https://user-images.githubusercontent.com/98992380/211189354-53e8c301-b440-4ade-b657-ffdb914031ba.png)
-https://github.com/binary-person/womginx
+[Womginx](https://github.com/binary-person/womginx)
 
 # .EXE Hacks
 .EXE hacks allow you to run alternate programs on your device that may have been blocked. For this we use what we call "Vix Hack" which uses inno and other methods. Not all programs work, and we will make a list of every program that we know works.
@@ -47,27 +47,27 @@ To do this, download the file, and run the installer, and your done!
 
 Apps That work:
 
-Gimp,
+[Gimp](https://gimp.org),
 
-CMMM Plus+ (https://milenakos.itch.io/cmmm-plus-milenakos-mod)
+[CMMM Plus+](https://milenakos.itch.io/cmmm-plus-milenakos-mod)
 
 ## Method #2, inno method #1
 
 This method requires innoextract, and we will leave a link to get that.
 
-https://constexpr.org/innoextract/
+[Innoextract](https://constexpr.org/innoextract/)
 
 Open this link, scroll down, and download "Windows Binaries". Extract the .ZIP to an easy location to access. Next, take your installer, and put it in the innoextract folder that you just unzipped. Then drag your installer onto the innoextract.exe file, and installation will start. Once you are done, you will have a new folder named "App", and you can run the file inside of that.
 
 Apps that work:
 
-Notepad++,
+[Notepad++](https://notepad-plus-plus.org/),
 
-Sublime text editor,
+[Sublime Text](https://www.sublimetext.com/),
 
-Clone Hero,
+[Clone Hero](https://clonehero.net/),
 
-Vim
+[Vim](https://www.vim.org/)
 
 ## Method #3, inno method #2
 
@@ -77,18 +77,20 @@ Follow all the steps in method #1, but instead of dragging the installer onto in
 
 Apps that work:
 
-Discord (Better discord can be installed with this method too),
+[Discord](https://discord.com/),
 
-Minecraft (Note: You have to use lunar client instead of the Minecraft Launcher),
+[Better Discord](https://betterdiscord.app/)
 
-Firefox,
+[Minecraft](https://www.lunarclient.com/) (Note: You have to use lunar client instead of the Minecraft Launcher),
 
-Opera GX,
+[Firefox](https://www.mozilla.org/en-US/firefox/new/),
 
-Spotify,
+[Opera GX](https://www.opera.com/gx),
 
-Roblox,
+[Spotify](https://www.spotify.com/us/download/windows/),
 
-Paradox Launcher
+[Roblox](https://roblox.com),
+
+[Paradox Launcher](https://www.paradoxinteractive.com/our-games/launcher)
 
 **More information will be added soon!**
