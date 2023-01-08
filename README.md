@@ -49,7 +49,8 @@ Open this link, scroll down, and download "Windows Binaries". Extract the .ZIP t
 
 Apps that work:
 
-Notepad++
+Notepad++,
+
 Sublime text editor
 
 Method #2, inno method #2
@@ -60,3 +61,14 @@ Follow all the steps in method #1, but instead of dragging the installer onto in
 
 Apps that work:
 
+Discord,
+
+Minecraft (Note: You have to use lunar client instead of the Minecraft Launcher),
+
+Firefox,
+
+Opera GX,
+
+Spotify
+
+# More information will be added soon!
