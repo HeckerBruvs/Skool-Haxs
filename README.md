@@ -67,7 +67,7 @@ Follow all the steps in method #1, but instead of dragging the installer onto in
 
 Apps that work:
 
-Discord,
+Discord (Better discord can be installed with this method too),
 
 Minecraft (Note: You have to use lunar client instead of the Minecraft Launcher),
 
