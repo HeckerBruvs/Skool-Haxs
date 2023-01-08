@@ -91,4 +91,4 @@ Roblox,
 
 Paradox Launcher
 
-# More information will be added soon!
+**More information will be added soon!**
