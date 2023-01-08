@@ -69,6 +69,8 @@ Firefox,
 
 Opera GX,
 
-Spotify
+Spotify,
+
+Roblox
 
 # More information will be added soon!
