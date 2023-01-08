@@ -6,7 +6,7 @@ Some nice bypassing tools to make school laptops more fun.
 # Web Hacks
 There are 2 chrome hacks to choose from, both of them being proxies.
 
-1: Ultraviolet
+##1: Ultraviolet
 
 Ultraviolet is the simplest and easiest proxy.
 ![image](https://user-images.githubusercontent.com/98992380/211188587-4dbe9c46-ba7d-4bd3-b342-8e821de924cc.png)
@@ -18,7 +18,7 @@ javascript: var win = window.open(); var url = 'YOUR LINK HERE'; var iframe = wi
 
 Now you can open Ultraviolet from javascript supported sites.
 
-2:
+##2: Womginx
 
 Womginx is a mix of Wombat and nginx proxies.
 
@@ -29,7 +29,7 @@ https://github.com/binary-person/womginx
 # .EXE Hacks
 .EXE hacks allow you to run alternate programs on your device that may have been blocked. For this we use what we call "Vix Hack" which uses inno and other methods. Not all programs work, and we will make a list of every program that we know works.
 
-Method #0, RunAsInvoker
+##Method #0, RunAsInvoker
 
 This method forces admin, but is a very weak method. I/We personally have trouble getting this to work, but We might as well include it.
 
@@ -39,7 +39,7 @@ set __COMPAT_LAYER=RunAsInvoker && start "Program.exe"
 
 Replace "Program.exe" with an installer indside the directory of the batch file, then run the batch file.
 
-Method #1, Plain install.
+##Method #1, Plain install.
 
 This method only requires a .exe file, and will run! Not many programs run this way on School devices.
 
@@ -51,7 +51,7 @@ Gimp,
 
 CMMM Plus+ (https://milenakos.itch.io/cmmm-plus-milenakos-mod)
 
-Method #2, inno method #1
+##Method #2, inno method #1
 
 This method requires innoextract, and we will leave a link to get that.
 
@@ -69,7 +69,7 @@ Clone Hero,
 
 Vim
 
-Method #3, inno method #2
+##Method #3, inno method #2
 
 This method requires innoextract, which we used in method #1.
 
