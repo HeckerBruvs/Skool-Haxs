@@ -3,14 +3,6 @@ Some nice bypassing tools to make school laptops more fun.
 
 **NOT ALL HACKS WILL WORK ON ALL DEVICES!**
 
-## Table of Contents
-
-* [Web Hacks](#web-hacks)
-  * [Ultraviolet](#ultraviolet)
-  * [Womginx](#womginx)
-* [.Exe Hacks](.exe-hacks)
-  * [Method #0, RunAsInvoker](#method-#0,-runasinvoker)
-
 ## Web Hacks
 There are 2 chrome hacks to choose from, both of them being proxies.
 
