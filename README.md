@@ -1,6 +1,9 @@
 # Skool-Haxs
 Some nice bypassing tools to make school laptops more fun.
 
+# Discord
+Please join our [Discord](https://discord.gg/vP5AckkjRW)
+
 **NOT ALL HACKS WILL WORK ON ALL DEVICES!**
 
 ## Web Hacks
@@ -90,5 +93,11 @@ Apps that work:
 *[Roblox](https://roblox.com)*,
 
 *[Paradox Launcher](https://www.paradoxinteractive.com/our-games/launcher)*
+
+### Alt Installs
+
+Some programs are a little trickier to install. Here are some guides on how to install them
+
+#### Minecraft
 
 **More information will be added soon!**
