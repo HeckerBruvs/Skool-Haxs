@@ -4,7 +4,9 @@ Some nice bypassing tools to make school laptops more fun.
 # Discord
 Please join our [Discord](https://discord.gg/vP5AckkjRW)
 
+# Disclaimers
 **NOT ALL HACKS WILL WORK ON ALL DEVICES!**
+**THESE METHODS CAN GET YOU IN TROUBLE! USE AT YOUR OWN RISK!**
 
 ## Web Hacks
 There are 2 chrome hacks to choose from, both of them being proxies.
@@ -99,5 +101,31 @@ Apps that work:
 Some programs are a little trickier to install. Here are some guides on how to install them
 
 #### Minecraft
+Minecraft is kind of tricky to install. A normal person would think to just get the Minecraft Installer, and then run it through Method #3, but it is a little different.
 
+##### Step 1
+Obtain the Minecraft Installer from Mojang.
+
+##### Step 2
+Run the Minecraft Installer using Method #3.
+
+##### Step 3
+Wait for the Installer to fail.
+
+##### Step 4
+Obtain the Lunar Client Installer, or the Installer of any Minecraft Client you like. The reason we do this is because the Minecraft Installer gets its data from the Microsoft Store, whilst Clients get it from their own servers. On most school computers, the Microsoft Store is locked down, so it cannot get the data it needs, but it can still install the base files for your Client to build.
+
+##### Step 5
+Install your Client via method #3.
+
+##### Step 6
+Launch your Client.
+
+##### Step 7
+Launch the game from the Client, and the game will be built and Installed.
+
+##### Step 8
+Enjoy :)
+
+# The end.
 **More information will be added soon!**
