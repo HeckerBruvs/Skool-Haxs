@@ -125,7 +125,7 @@ Launch your Client.
 Launch the game from the Client, and the game will be built and Installed.
 
 ##### Step 8
-Enjoy :)
+Enjoy. :)
 
 # The end.
 **More information will be added soon!**
